@@ -17,4 +17,4 @@
 
 # ¿Para qué sirve una bitácora (PostgreSQL y Apache)?
 # Es donde se    registran las actividades o errores que puedan surgir a la hora de ejecutar algo.
-# acces y error
+# access y error
